@@ -13,6 +13,7 @@ this is a tools to push file & auto run script
 └── readme
 auto_install.py: a demo script that run in remote machine
 conf : contain some configure file
+file : a folder contain the file you push or script you push
 ip_list:a file of ip_list contain two fields "ip password"
 push_file.py :a script that  run in local machine
 pysql: a mysql class to write result into mysql
