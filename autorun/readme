@@ -1,0 +1,19 @@
+this is a tools to push file & auto run script
+[hello@Git autorun]$ tree
+.
+├── auto_install.py
+├── conf
+├── file
+│   └── sshd_config
+├── ip_list
+│   └── ip_list
+├── push_file.py
+├── pysql.py
+├── pysql.pyc
+└── readme
+auto_install.py: a demo script that run in remote machine
+conf : contain some configure file
+ip_list:a file of ip_list contain two fields "ip password"
+push_file.py :a script that  run in local machine
+pysql: a mysql class to write result into mysql
+readme:the file you read
